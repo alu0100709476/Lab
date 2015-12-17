@@ -1,6 +1,6 @@
-language: scala
-scala:
-  - "2.10.2"
+language: java
+java:
+  - "7"
 jdk:
   - oraclejdk7
 script:
